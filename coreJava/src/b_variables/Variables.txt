@@ -1,0 +1,19 @@
+--------------------------Variables----------------------------------
+	- It is a named stored 
+	- It is Used to store data on program
+	- It holds a value that can change during the execution of a program.
+	- Variables are used to store data temporarily for processing.
+	
+	Syntax:
+	/* data_type variable_name;
+	variable_name = value;
+	*/
+	
+	Example:
+	//Declaration
+	int a;
+	//Initialization
+	a = 12;
+	
+	
+	
