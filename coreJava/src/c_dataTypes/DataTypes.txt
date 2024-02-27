@@ -1,0 +1,140 @@
+	
+	------------------------------Data Types----------------------------
+	- Determines the type of data that a variable can hold and the operations 
+	 that can be performed on it
+	- Data types are essential for ensuring data integrity and efficient memory
+	  usage in programs.
+	- Common data types include:
+		1.Integer: Stores whole numbers (e.g., int, long, short, byte).
+		2.Floating-point: Stores numbers with fractional parts (e.g., float, double).
+		3.Character: Stores single characters (e.g., char).
+		4.Boolean: Stores true or false values (e.g., boolean).
+		5.String: Stores sequences of characters (e.g., String).
+		6.And many more, including custom data types defined by the programmer.
+	
+	
+	
+	Syntax:
+	data_type variable_name;
+	
+	Example:
+	int a;
+	
+------------------------- Types of Data Types ------------------------------------
+	
+    A. Primitive Data Types in Java:
+		
+	Primitive Data Types in Java:
+		
+		1. `byte`
+			- Used to store integer values ranging from -128 to 127.
+			- occupying 1 byte of memory.
+			
+		2. `short`
+			- Used to store integer values ranging from -32,768 to 32,767.
+			- occupying 2 bytes of memory.
+			
+		3. `int`
+			- Used to store integer values ranging from -2^31 to 2^31 - 1.
+			- occupying 4 bytes of memory.
+			
+		4. `long`
+			- Used to store integer values ranging from -2^63 to 2^63 - 1.
+			- occupying 8 bytes of memory.
+			
+		5. `float`
+			- Precision of approximately 7 decimal digits.
+			- we should put f on the last of floating number.// float num = 2.343f;
+			- Used to store single-precision floating point numbers.
+			- occupying 4 bytes of memory.
+			
+		6. `double`
+			- Precision of approximately 15 decimal digits.
+			- Used to store double-precision floating point numbers.
+			- occupying 8 bytes of memory.
+			
+		7. `boolean`
+			- Used to store boolean values (`true` or `false`).
+			- typically occupying 1 bit of memory,
+		 	- though the actual size is implementation-dependent.
+		 	
+		8. `char`
+			- Used to store a single Unicode character.
+			- occupying 2 bytes of memory.
+	
+	B. Reference Data Types in Java:
+
+		1. `String`
+    		- Used to represent a sequence of characters.
+    		- Occupying a reference to the memory location of the 
+    		  String object (platform-dependent).
+
+		2. `Wrapper classes` (e.g., `Integer`, `Double`, `Boolean`)
+    		- 		Used to wrap primitive data types into objects.
+    		- Occupying a reference to the memory location of the 
+    		  wrapper object (platform-dependent).
+
+		3. `Array`
+    		- Used to store a fixed-size sequential collection of 
+    		  elements of the same type.
+    		- Occupying a reference to the memory location of the 
+    		  array (platform-dependent).
+
+		4. `Class`
+    		- Used to define user-defined types.
+    		- Occupying a reference to the memory location of the 
+    		  object (platform-dependent).
+
+		5. `Custom classes`
+    		- Classes defined by the programmer to represent specific
+    		  entities or concepts in the application domain.
+    		- Occupying a reference to the memory location of the custom 
+    		  object (platform-dependent).
+
+		6. `Interface`
+    		- Used to define a contract for implementing classes.
+    		- Occupying a reference to the memory location of the 
+    		  interface (platform-dependent).
+
+		7. `Enum`
+    		- Used to define a set of named constants.
+    		- Occupying a reference to the memory location of the 
+    		  enum (platform-dependent).
+
+		8. `Anonymous classes`
+    		- Classes defined without a name for a one-time use.
+    		- Occupying a reference to the memory location of the 
+    		  anonymous class instance (platform-dependent).
+
+		9. `Lambda expressions`
+    		- Anonymous functions used for functional programming.
+    		- Occupying a reference to the memory location of the 
+    		  lambda expression instance (platform-dependent).
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
