@@ -1,0 +1,60 @@
+# Compiled class file
+*.class
+
+# Log files
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# VS Code
+.vscode/
+
+# Spring Tool Suite (STS)
+.springBeans
+.springServer
+.metadata
+
+# Mac
+.DS_Store
+
+# Maven
+log/
+target/
+
+# Inclusions
+!lib/**
+
+# Compiled Files
+/bin/
+/bin1/
+build/
+java/build/**
+
+# Windows thumbnail cache files
+Thumbs.db
+
+# Vim Editor files
+.gitignore.swp
+
