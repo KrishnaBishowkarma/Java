@@ -1,4 +1,4 @@
-package com.bankingsystem;
+package com.projects.bankingsystem;
 
 import java.util.Scanner;
 import java.util.UUID;

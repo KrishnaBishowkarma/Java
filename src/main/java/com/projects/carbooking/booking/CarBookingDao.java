@@ -1,4 +1,4 @@
-package com.carbooking.booking;
+package com.projects.carbooking.booking;
 
 import java.util.UUID;
 

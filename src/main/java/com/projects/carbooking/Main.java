@@ -1,10 +1,10 @@
-package com.carbooking;
+package com.projects.carbooking;
 
-import com.carbooking.booking.CarBooking;
-import com.carbooking.booking.CarBookingService;
-import com.carbooking.car.Car;
-import com.carbooking.user.User;
-import com.carbooking.user.UserService;
+import com.projects.carbooking.booking.CarBooking;
+import com.projects.carbooking.booking.CarBookingService;
+import com.projects.carbooking.car.Car;
+import com.projects.carbooking.user.User;
+import com.projects.carbooking.user.UserService;
 
 import java.util.Scanner;
 import java.util.UUID;

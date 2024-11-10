@@ -1,8 +1,8 @@
-package com.carbooking.booking;
+package com.projects.carbooking.booking;
 
-import com.carbooking.car.Car;
-import com.carbooking.car.CarService;
-import com.carbooking.user.User;
+import com.projects.carbooking.car.Car;
+import com.projects.carbooking.car.CarService;
+import com.projects.carbooking.user.User;
 
 import java.time.LocalDateTime;
 import java.util.UUID;

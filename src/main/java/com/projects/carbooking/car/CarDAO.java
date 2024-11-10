@@ -1,4 +1,4 @@
-package com.carbooking.car;
+package com.projects.carbooking.car;
 
 import java.math.BigDecimal;
 

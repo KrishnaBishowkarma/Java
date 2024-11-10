@@ -1,4 +1,4 @@
-package com.personalexpensetracker;
+package com.projects.personalexpensetracker;
 
 import java.util.ArrayList;
 
